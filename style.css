@@ -1,0 +1,114 @@
+#Home_btn{
+position: relative;
+top:-75px;
+left: -10px;
+}
+.icon-border:hover{
+fill:gold;
+background-color:royalblue;
+width: 20px;
+height: 20px;
+position: relative;
+top: 20px;
+left: 30px;
+}
+.icon-border{
+margin-top: 30px;
+width: 20px;
+height: 20px;
+position: relative;
+top: 20px;
+left: 30px;
+padding: 15px;
+  border-radius: 100px;
+}
+
+.icon-border-email-notified:hover{
+  fill:gold;
+  background-color:royalblue;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  
+  }
+  .icon-border-email-notified{
+  margin-top: 30px;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  top: 20px;
+  left: 30px;
+  padding: 15px;
+    border-radius: 100px;
+  }
+
+.small-profile-picture-sidebar{
+position: relative;
+top: 30px;
+
+}
+.right-side{
+left: 70%;
+}
+.Home_title{
+border-bottom: 2px solid black;
+margin-left: -930px;
+font-weight: 900;
+}
+.tweet-textarea{
+margin-left: 120px;
+width: 769px;
+height: 100px;
+resize: none;
+}
+.tweetsubmitbtn{
+position: relative;
+top:-55px;
+left: 200px;
+
+
+}
+.tweet{
+position: relative;
+top: 0;
+left:0;
+transform: translate(50%);
+border: 5px solid aqua;
+margin-left: -10%;
+margin-top: 50px;
+width: 50%;
+}
+.tweet-title{
+margin-left: 50px;
+margin-top: -3px;
+}
+.w3-darkblue{
+background-color: #31475e;
+color:#fff;
+}
+.tweet-viewer{
+  border-bottom:5px solid lightgrey;
+}
+.icon-container{
+position: relative;
+top: -50px;
+height: 0px;
+left: -390px;
+
+}
+.tweet-container{
+  margin-left: -10%;
+  margin-top: 50px;
+  width: 50%;
+  top: 0;
+  left:-10;
+  transform: translate(50%);
+}
+#email_btn{
+position: relative;
+ top: -30px;
+ left: 10px;
+}
+#myImg{
+display: none;
+}
